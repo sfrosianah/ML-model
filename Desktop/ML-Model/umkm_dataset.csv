@@ -1,0 +1,71 @@
+﻿ID;Provinsi;Merk Produk;Nama Pemilik;Alamat;Nomor Telepon / Faksimili;Jenis Produk;Jenis Produk2;Cara Pembayaran;Cara Pengiriman
+1;Balikpapan, Kalimantan Timur;Ikan Arwana;Siti Salma;Jl. Jend. A Yani RT.21 No. 58;0542-7020131;Amplang;Kuku Macan, Bunder Panjang;Cash;Penjualan di Tempat
+2;Balikpapan, Kalimantan Timur;Ikan Tenggiri;Endra (Iwan);Jl. Jend. A. Yani RT. 21;82158709336;Amplang;Kuku Macan, Bulat Panjang;-;-
+3;Balikpapan, Kalimantan Timur;Ikan Pipih;Heru Cahyono;Jl. Jend. Sudirman No. 19;81346301067;Amplang;Kuku Macan, Buket-Buket, Jumbo;Cash;Pengangkutan Mobil
+4;Balikpapan, Kalimantan Timur;Ikan Pipih;Haspiah;Jl. MT Haryono No. 20 RT. 31;85345826086;Amplang;Amplang Bumbu, Kuku Macan, Jumbo;Cash;Penjualan di Tempat / Pengangkutan Mobil
+5;Balikpapan, Kalimantan Timur;Ikan Pipih;Tri Sejati (Indra);Jl. A. Yani No. 22 RT. 8;0542-7135912;Amplang;Kuku Macan, Bumbu, Jumbo;Cash;Pengangkutan Mobil
+6;Balikpapan, Kalimantan Timur;Ikan Pipih;Andre M. Satria;Jl. Jend. A Yani No. 295 RT. 8;85242828250;Amplang;Kuku Macan, Bumbu, Jumbo;Cash;Pengangkutan Mobil
+7;Balikpapan, Kalimantan Timur;Ikan Pipih;Hj. Adawiyah;Jl. Soekarno Hatta No. 19 RT.53 ;8125329832;Amplang;Kuku Macan, Bumbu;Cash;Pengangkutan Mobil
+8;Balikpapan, Kalimantan Timur;Ikan Pipih;Irmansyah (Hamsah);Jl. A. Yani No. 10 RT. 58;0542-411677;Amplang;Kuku Macan, Bumbu;Cash;Pengangkutan Mobil
+9;Balikpapan, Kalimantan Timur;Ikan Pipih;Risna;Jl. A. Yani No. 35 RT. 20;81545343435;Amplang;Kuku Macan, Bulet-Bulet;Cash;Pengangkutan Mobil
+10;Balikpapan, Kalimantan Timur;Ikan Pipih;Basri (Yuli);Jl. Jend. A Yani RT. 08;85247798124;Amplang;Kuku Macan, Bulet-Bulet;Cash;Pengangkutan Mobil
+11;Balikpapan, Kalimantan Timur;Karya Akmal Perdana;H. Asraful Umam;Jl. Jend. A Yani No. 413 RT.008;0542-442128;Amplang;Meriep, Bulet-Bulet;Cash;Pengangkutan Mobil
+12;Balikpapan, Kalimantan Timur;Ikan Pipih;Hj. Asmawati (Latifa);Jl. Jend. A. Yani RT. 8;81520374183;Amplang;Meriep, Bulat-Bulat;Cash;Pengangkutan Mobil
+13;Balikpapan, Kalimantan Timur;Ikan Pipih;H. Yusran;Jl. Jend. A Yani No. 239 RT. 8;0542-418223;Amplang;Kuku Macan, Bulat Panjang, Jumbo;Cash;Paket / Antar Rutin
+14;Balikpapan, Kalimantan Timur;Ikan Pipih;Ahmad Amin;Jl. A Yani No. 1 RT. 09;0542-442850;Amplang;Kuku Macan, Bulat Panjang, Jumbo;Cash;Pengangkutan Mobil
+15;Balikpapan, Kalimantan Timur;Rama Jaya;Rama (Erma);Jl. Jend. A Yani;82153285586;Amplang;Meriep, Bulat-Bulat;Cash;Ambil Langsung
+16;Balikpapan, Kalimantan Timur;Ikan Pipih;Nurhayati;Jl. Jend. A Yani No.35 RT. 20;81347204790;Amplang;Meriep, Bulat-Bulat, Jumbo;Cash;Ambil Langsung
+17;Balikpapan, Kalimantan Timur;Ikan Pipih;H. Supriansyah (Tabrani);Jl. Jend. A Yani depan Ex Bioskop Nusantara;82157324847;Amplang;Kuku Panjang, Bulat Panjang;Cash;Ambil Langsung / Pengangkutan Mobil
+18;Balikpapan, Kalimantan Timur;Mawar Sari;Sujina (Wati);Jl. Jend. Sudirman - Stall Kuda;81346224766;Amplang;Kuku Macan, Bumbu;Cash / Kredit;Ambil Langsung / Pengangkutan Mobil
+19;Balikpapan, Kalimantan Timur;Ikan Pipih;Ansori;Jl. Masrma R Iswahyudi RT. 70 No. 23;85247206959;Amplang;Kuku Macan, Bulat-bulat;Cash;Ambil Langsung / Pengangkutan Mobil
+20;Balikpapan, Kalimantan Timur;Ikan Pipih;Hj. Siti Suparti;Jl. Jend. Sudirman No. 20;0542-764764;Amplang;Kuku Macan, Bumbu;Cash;Ambil Langsung / Pengangkutan Mobil
+21;Bandung, Jawa Barat;Adi Farm;H. Gembong A. Adisaputro, SH;Kp. Wanasari Tengah RT 03/01 Ds. Warnasari Kec. Pangalengan;85294451001;Hortikultura;Radish (Lobak), French Bean (Buncis) dan sayuran Daun;Transfer;Pengangkutan Mobil
+22;Bandung, Jawa Barat;Amar Sukmara (Mitra Adi Farm);Amar Sukmara;Kp Loslinggong RT 03/11 Ds. Margamulya Kec. Pangalengan;85220868684;Hortikultura;Lobak;Cash;Pengangkutan Mobil
+23;Bandung, Jawa Barat;Dindin (Mitra Adi Farm);Dindin;Kp Pasirmulya Ds. Margamulya Kec. Pangalengan;8562343456;Hortikultura;Lobak;Cash;Pengangkutan Mobil
+24;Bandung, Jawa Barat;Mulyana (Mitra Adi Farm);Mulyana;Kp Cijembar Ds. Pangalengan Kec. Pangalengan;81322148550;Hortikultura;Lobak;Cash;Pengangkutan Mobil
+25;Bandung, Jawa Barat;Tarman (Mitra Adi Farm);Tarman;Kp Loslinggong RT 03/11 Ds. Margamulya Kec. Pangalengan;;Hortikultura;Lobak;Cash;Pengangkutan Mobil
+26;Bandung, Jawa Barat;Koptan Mitra Sukamaju;Dindin Cepi Cahyadin;Jl. Rt 05/03 Pasirlangu Cisarua Bandung;022-70845576;Hortikultura;Paprika, Labu Siam;Cash;Antar Langsung / Ambil Langsung 
+27;Bandung, Jawa Barat;Dewa Family;Deden Wahyu Amalludin;Kp. Pasirlangu Ds. Pasirlangu Cisarua Kab. Bandung Barat;81572392076;Hortikultura;Tomat chery;Kredit;Antar Langsung / Ambil Langsung 
+28;Bandung, Jawa Barat;Dewa Family;Deden Wahyu Amalludin;Kp. Pasirlangu Ds. Pasirlangu Cisarua Kab. Bandung Barat;81572392076;Hortikultura;Paprika;Cash / Kredit;Antar Langsung / Ambil Langsung 
+29;Bandung, Jawa Barat;H. Enjang Warsa;H. Enjang Warsa;Kp. Pasirlangu Ds. Pasirlangu Cisarua Kab. Bandung Barat;81910190802;Hortikultura;Paprika;Cash / Kredit;Ambil Langsung
+30;Bandung, Jawa Barat;Roslina Dewi Susilawati;Roslina Dewi Susilawati;Kp. Pasirlangu Rt 05/03 Cisarua Kab. Bandung Barat;081320702406, 022-73447012;Hortikultura;Labu Siam, Paprika;Cash;Antar Langsung / Ambil Langsung 
+31;Bandung, Jawa Barat;Dadang Mahmud;Dadang Mahmud;Kp. Pondok Rt. 04/04 Cisarua Kab. Bandung Barat;85294553714;Hortikultura;Paprika;Cash;Ambil Langsung
+32;Bandung, Jawa Barat;Farida Hernawati;Hj. Farida Hernawati;Ps. Induk Caringin II A No. 6 Bandung;022-5434097 / 08122041020;Hortikultura;Cabe, Labu;Cash;Antar Langsung
+33;Bandar Lampung, Lampung;Kelompok Usaha Bersama (KUB) Putra Pidada;Hj. Warna;Pulau Pasaran Lk II Rt 009, Kel Kota Karang, matan Kec.Teluk Betung Barat;0813 6956 2303;Ikan Teri;Teri Kering olahan rebus laut;Cash / Transfer;Ambil Langsung / Ekspedisi
+34;Bandar Lampung, Lampung;Kelompok Usaha Bersama (KUB) Usaha Bahari;Toto Heriyanto;Pulau Pasaran Lk II Rt 009, Kel Kota Karang, matan Kec.Teluk Betung Barat;0813 7990 5030;Ikan Teri;Teri Kering olahan rebus laut;Cash / Transfer;Ambil Langsung / Ekspedisi
+35;Bandar Lampung, Lampung;Kelompok Usaha Bersama (KUB) Melati Bahari ;Sukanti;Pulau Pasaran Lk II Rt 009, Kel Kota Karang, matan Kec.Teluk Betung Barat;0853 8054 0023;Ikan Teri;Snack berbahan baku teri;Cash / Transfer;Ambil Langsung / Ekspedisi
+36;Bandar Lampung, Lampung;Kelompok Usaha Bersama (KUB) Usaha Bahari;Sarnoto;Pulau Pasaran Lk II Rt 009, Kel Kota Karang, matan Kec.Teluk Betung Barat;0852 8751 1389;Ikan Teri;Teri Kering olahan rebus laut;Cash / Transfer;Ambil Langsung / Ekspedisi
+37;Bandar Lampung, Lampung;Kelompok Usaha Bersama (KUB) Welas Asih;Saleh;Pulau Pasaran Lk II Rt 009, Kel Kota Karang, matan Kec.Teluk Betung Barat;0812 7961 9391;Ikan Teri;Teri Kering olahan rebus laut;Cash / Transfer;Ambil Langsung / Ekspedisi
+38;Bandar Lampung, Lampung;Kelompok Usaha Bersama (KUB) Welas Asih;Rosidin;Pulau Pasaran Lk II Rt 009, Kel Kota Karang, matan Kec.Teluk Betung Barat;0813 6918 6876;Ikan Teri;Teri Kering olahan rebus laut;Cash / Transfer;Ambil Langsung / Ekspedisi
+39;Bandar Lampung, Lampung;Kelompok Usaha Bersama (KUB) Welas Asih;Kusnadi;Pulau Pasaran Lk II Rt 009, Kel Kota Karang, matan Kec.Teluk Betung Barat;0813 7922 6000;Ikan Teri;Teri Kering olahan rebus laut;Cash / Transfer;Ambil Langsung / Ekspedisi
+40;Bandar Lampung, Lampung;Kelompok Usaha Bersama (KUB) Putra Permana;Dasuki;Pulau Pasaran Lk II Rt 009, Kel Kota Karang, matan Kec.Teluk Betung Barat;0821 8341 9946;Ikan Teri;Teri Kering olahan rebus laut;Cash / Transfer;Ambil Langsung / Ekspedisi
+41;Bandar Lampung, Lampung;Kelompok Usaha Bersama (KUB) Putra Permana;Arun;Pulau Pasaran Lk II Rt 009, Kel Kota Karang, matan Kec.Teluk Betung Barat;0821 8104 9947;Ikan Teri;Teri Kering olahan rebus laut;Cash / Transfer;Ambil Langsung / Ekspedisi
+42;Bandung, Jawa Barat;Zocha;Franz Limiarto PJ;Jl. Pakuwon No. 10 Garut – Jabar;0262 – 232695 / 233084;Kerajinan;Kerajinan akar wangi;Cash / Transfer / EDC;Ambil Langsung / Ekspedisi
+43;Bandar Lampung, Lampung;Zom Zom Family;Een Sanuasih;Jl. Pagar Alam, Segalamider, Tanjung Karang Barat;0852 7977 8511;Keripik Pisang;Aneka Keripik (Pisang, Talas, Mantang, singkong);Cash / Transfer;Ambil Langsung / Ekspedisi
+44;Bandar Lampung, Lampung;Rizka;Gunawan;Jl. Pagar Alam Gg. PU, Segalamider, Tanjung Karang Barat;0721-7538734 / 0721-782251;Keripik Pisang;Aneka Keripik (Pisang, Talas, Sukun, Singkong);Cash / Transfer;Ambil Langsung / Ekspedisi
+45;Bandar Lampung, Lampung;Ridho Jaya;Erma Lusiana;Jl. Pagar Alam, Segalamider, Tanjung Karang Barat;0852 6984 7613;Keripik Pisang;Aneka Keripik (Pisang, Talas, Sukun, Singkong);Cash / Transfer;Ambil Langsung / Ekspedisi
+46;Bandar Lampung, Lampung;Lateb Jaya;Hariyanto;Jl. Pagar Alam Gg.Griya Sejahtera, Segalamider, Tanjung Karang Barat;0721-7584 272;Keripik Pisang;Aneka Keripik (Pisang, Talas, Sukun, Singkong);Cash / Transfer;Ambil Langsung / Ekspedisi
+47;Bandar Lampung, Lampung;Lala;Yadino;Jl. Panglima Polim, Segalamider, Tanjung Karang Barat;0815 402 1857;Keripik Pisang;Aneka Keripik (Pisang, Talas, Sukun, Singkong);Cash / Transfer;Ambil Langsung / Ekspedisi
+48;Bandar Lampung, Lampung;Askha Jaya;Aswal Junaidi;Jl. Pagar Alam, Segalamider, Tanjung Karang Barat;0828 8011 5991;Keripik Pisang;Aneka Keripik (Pisang, Talas, Mantang, Singkong);Cash / Transfer;Ambil Langsung / Ekspedisi
+49;Bandar Lampung, Lampung;Istana Ibu mery;Sinta;Jl. Pagar Alam No 36, Segalamider, Tanjung Karang Barat;081272751000/0721-3637474;Keripik Pisang;Aneka Keripik (Pisang, Talas, Mantang, Singkong, Ubi Jalar);Cash / Transfer;Ambil Langsung / Ekspedisi
+50;Bandar Lampung, Lampung;Cipta Rasa;Romlah;Jl. Pagar Alam, Segalamider, Tanjung Karang Barat;0812 7946 9025;Keripik Pisang;Aneka Keripik (Pisang, Talas, Mantang, Singkong);Cash / Transfer;Ambil Langsung / Ekspedisi
+51;Bandar Lampung, Lampung;ASA Sri Lestari;Sucipto Adi;Kawasan Industri Keripik Jl. Pagar Alam, Segala Mider, Tanjung Karang Barat;81540960709;Keripik Pisang;Aneka Keripik (Pisang, Singkong);Cash / Transfer;Ekspedisi / Titip ke Agen Travel Muara Wisata
+52;Bandar Lampung, Lampung;Dua Dara;Mardiah;Jl. Pagar Alam, Segalamider, Tanjung Karang Barat;81377794173;Keripik Pisang;Aneka Keripik (Pisang, Talas, Mantang, Singkong, Sukun);Cash / Transfer;Antar Langsung / Ekspedisi
+53;Bandung, Jawa Barat;Ladifa;Faisal;Jl. Bojong Koneng Atas No. 8B;022 – 7200306;Kue kering;Makanan kue kering;Tunai / Kredit;Paket / langsung
+54;Bandung, Jawa Barat;Chocodot;Kiki Gumelar;Jl. Otista No. 2 Pasawahan Trg Garut;0262 – 234911;Makanan / Cokelat (chocodot);Makanan ringan;Cash, transfer;Paket
+55;Cirebon, Jawa Barat;Fuji;Isah farisah;Jl. Raya Battembat RT.03/04 Blok Pejagalan Lama, Desa Battembat, Kec. Tengah Tani, Kab. Cirebon;81321428144;Krupuk Kulit;Krupuk Kulit (Kerbau, Sapi);Tunai dan Transfer;Ekspedisi, Datang Langsung
+56;Cirebon, Jawa Barat;Satria;Tabroni/tueni;Jl. Sultan Ageng Tirtayasa Gg. Mandiri RT. 01/01 No. 9, Desa Kedung Jaya, Kec. Kedawung, Kab. Cirebon;8122406096;Manisan;Manisan Buah Mangga, Jahe, Resella, Tomat;Tunai/Transfer;Ekspedisi
+57;Cirebon, Jawa Barat;Gapit Keju 24;Kulsum;Jl. Ir. H. Juanda 24, Desa Battembat, Kec. Tengah Tani, Kab. Cirebon;85295888759;Kue Gapit;Gapit Keju, Gapit Gurih, Gapit Manis;Tunai dan Transfer;Ambil Langsung, Ekspedisi
+58;Cirebon, Jawa Barat;Irfan jaya;Basir/juariah;Jl. Kalifah RT. 04/02, Desa Battembat, Kec. Tengah Tani;81395507172;Krupuk Kulit;Krupuk Kulit Kerbau;Tunai, Transfer;Kirim Langsung (Sendiri)
+59;Cirebon, Jawa Barat;Aan;Nurhasanah;Jl. Jurimah RT. 04/03 No.109, Desa Battembat, Kec. Tengah Tani, Kec. Plered;81320446118;Kue Gapit;Gapit Aneka Rasa (Keju, Coklat, Udang, Nanas, Pisang, Kacang, Gurih, Ayam);Tunai/Transfer;Ambil Langsung, Ekspedisi
+60;Cirebon, Jawa Barat;MS emping;Tabroni;Desa Tuk Bloksilombang RT. 01/03, Kec. Kedawung;81395548833;Emping Melinjo;Emping Asin, Emping Manis, Emping Lebar Asin, Manis;Tunai;Ekspedisi, Datang Langsung
+61;Kuningan, Jawa Barat;Jabar 1 dan Nabila;Kamal;Dusun Pahing Ds. Karang Muncang Kec. Cigandamekar;81546439498;Roti;Roti manis dan Coklat;Konsinyasi;Melalui sales/marketing
+62;Kuningan, Jawa Barat;Sari Bunga;Ujun Zulkarnaen;Dusun 3 RT. 09/03, Ds. Timbang Kec. Cigandamekar Kab. Kuningan;85295591414;Roti & Kue;Roti manis, Roti Goreng dan Roti Tawar;Konsinyasi;Langsung ke Pasar via marketing dan via agen
+63;Kuningan, Jawa Barat;Raja Bakery;Imroni;Dusun Citelang Ds. Sangan Mulya Kec. Cigandamekar;81395980588;Roti;Roti manis, Susu, kelapa dan Coklat;Tunai & Konsinyasi;Kirim ke Agen & Langsung ke Pasar via tenaga pemasar
+64;Kuningan, Jawa Barat;Pelangi;Sunarya;Ds. Karang Muncang Kec. Cigandamekar – KNg;85659783247;Roti;Roti Rasa Manis, COklat dan Susu;Konsinyasi;Langsung ke Pasar via tenaga penjual
+65;Kuningan, Jawa Barat;Nizar;Nana Suryana;Dusun Manis Ds. Karang Muncang Kec. Cigandamekar;82127841699;Selai & Roti;Selai Kelapa & Roti manis kelapa & Coklat;Tunai;Dikirim ke Pasar/Toko
+66;Kuningan, Jawa Barat;Assyfa 11;Sardi Pribadi;Dusun Pon Ds. Karang Muncang Kec. Cigandamekar – Kng;87829737212;Pia & Nastar;Pisang Keju;Konsinyasi;Kirim melalui agen & marketing
+67;Kuningan, Jawa Barat;Assyfa 1;Nana Suhana;Dusun Pon Ds. Karang Muncang Kec. Cigandamekar – KNg;81804646585;Kue basah dan kering;Pisang dan Keju;Konsinyasi;Pengiriman ke agen & Langsung melalui marketing
+68;Kuningan, Jawa Barat;Aropah;Ujang;Desa Japara Kec. Japara Kab. Kuningan;81947133457;Roti;Roti manis dan Coklat;Konsinyasi;Melalui marketing & agen
+69;Kuningan, Jawa Barat;Queen;Jenal;Dusun Pon Ds. Japara Kec. Japara;87724389089;Roti;Roti manis dan Coklat;Tunai;Kirim Via agen & Langsung ke Pasar via sales
+70;Kuningan, Jawa Barat;Nice;Aripin;Dsn. Citelang Ds. Sangkan Mulya Kec. Cigandamekar;81312474999;Roti;Roti Kombinasi & Roti Manis, Coklat Kelapa;Konsinyasi & Tunai;Kirim Via Agen & Langsung ke Pasar via Marketing
